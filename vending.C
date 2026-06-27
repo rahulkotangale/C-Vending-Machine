@@ -83,7 +83,7 @@ int main(int argc, char const *argv[])
     }
 
     printf("\nTHANK YOU ^_^\n");
-    printf("\NYOU HAVE GREAT DAY ^_^\N");
+    printf("\nYOU HAVE GREAT DAY ^_^\n");
 
     return 0;
 }
